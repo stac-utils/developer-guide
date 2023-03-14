@@ -1,0 +1,8 @@
+-r requirements.txt
+
+black~=23.1
+pip-tools~=6.12
+pre-commit~=3.1
+rstcheck[sphinx]~=6.1
+ruff==0.0.255
+sphinx-autobuild==2021.3.14
