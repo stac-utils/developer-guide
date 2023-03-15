@@ -1,9 +1,10 @@
 # The stac-utils developer guide
 
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/gadomski/stac-utils-developer-guide/deploy.yaml?style=for-the-badge)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg?style=for-the-badge)](./CODE_OF_CONDUCT)
 
 This book is meant as a reference for developers working on repos in the [stac-utils organization](https://github.com/stac-utils).
-Its rendered content is available at <https://stac-utils.github.com/developer-guide>.
+Its rendered content is available at <http://www.gadom.ski/stac-utils-developer-guide/>.
 
 ## Contributing
 
