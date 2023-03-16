@@ -29,7 +29,7 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements-dev.txt
       - name: Sphinx build
-        run: make html
+        run: make html SPHINXOPTS="-W -n --keep-going"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
